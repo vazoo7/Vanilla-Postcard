@@ -22,7 +22,7 @@ Port: 5500 ( Please make sure that the port is free. If not, you can change the 
 ## Usage
 
 ```
-1. // Navigate to the repository root (//canonical-home-test-assignment)
+1. // Navigate to the repository root
 
 2. " npm install " - [for installing all dependencies or devDependencies from a package.json file]
 
