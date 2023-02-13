@@ -1,0 +1,25 @@
+.row{
+    margin-bottom: 1%;
+  }
+  
+.content{
+    margin-top: 4%;
+  }
+  
+hr{
+  /* Colours picked using colour picker tool from the given sample png file */
+    border-top: 1px dotted #d3cbcb;
+    background-color: transparent;
+  }
+  
+.p-card--highlighted{
+  /* Colours picked using colour picker tool from the given sample png file */  
+    border-top: 3.5px solid #a87ca0;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+footer{
+    margin-top: auto;
+  }

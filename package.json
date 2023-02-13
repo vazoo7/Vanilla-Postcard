@@ -1,0 +1,26 @@
+{
+  "name": "canonical-home-test-assignment",
+  "version": "1.0.0",
+  "description": "Postcard website sample for Canonical assessment using Vanilla Framework",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vazoo7/#"
+  },
+  "keywords": [
+    "Canonical",
+    "JavaScript",
+    "Vanilla",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Vaseem Ali Molanthala",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.1",
+    "vanilla-framework": "^3.10.0"
+  }
+}
